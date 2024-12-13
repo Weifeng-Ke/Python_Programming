@@ -1,6 +1,16 @@
-# Python_Programming
-This is a course for Software Design for Engineers II Operating systems principles,
-The topics for this course covers: real-time systems, principles of concurrent and multi-threaded programming, information structures, introduction to object oriented analysis, design, and modeling using UML, testing of software systems.
+# This repo is here to demonstrate my python programming ablities.
+
+
+# Python_Programming details
+This is a Software Design for Engineers II Operating systems principles course.
+
+The topics for this course are:
+real-time systems
+principles of concurrent and multi-threaded programming,
+information structures,
+introduction to object oriented analysis,
+design, and modeling using UML,
+testing of software systems.
 
 #Lab components
 
