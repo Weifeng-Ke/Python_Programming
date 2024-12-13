@@ -55,5 +55,7 @@ Part 3: Another solution to the above problem
 Practive using UML diagram to communicate designs,
 
 #Final Project
+
 Part1: Implementing a multithreaded game with hraphic user interface
+
 Part2: Implement a simple chat application. 
