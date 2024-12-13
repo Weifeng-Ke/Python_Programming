@@ -1,7 +1,7 @@
 # This repo is here to demonstrate my python programming ablities.
 
 
-# Python_Programming details
+Python_Programming details
 This is a Software Design for Engineers II Operating systems principles course.
 
 The topics for this course are:
@@ -14,7 +14,7 @@ testing of software systems.
 
 #Lab components
 
-#week 1
+#Week 1
 Implmenting Tic Tac Toe game
 
 #Week 2
